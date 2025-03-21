@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently looking for a job as a junior developer<br>🎯 Goals: create as few bugs as possible</p>
+<p align="left">📚 Front-end Developer<br>🎯 Goals: create as few bugs as possible</p>
 
 ###
 
