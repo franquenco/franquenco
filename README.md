@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Front-end Developer<br>🎯 Goals: create as few bugs as possible</p>
+<p align="left">📚 Front-end Developer<br></p>
 
 ###
 
